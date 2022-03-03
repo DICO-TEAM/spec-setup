@@ -5,7 +5,7 @@
 
 `tico`
 ```
-sudo docker run --rm dicoteam/dico build-spec --chain=tico --disable-default-bootnode > kicoCustomSpec.json
+sudo docker run --rm dicoteam/dico build-spec --chain=tico --disable-default-bootnode > ticoCustomSpec.json
 ```
 
 `kico`
